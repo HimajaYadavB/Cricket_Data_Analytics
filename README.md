@@ -1,6 +1,6 @@
 # Cricket_Data_Analytics
 
-We first college the data through web scrapping to obtain the follwoing information:
+We first collect the data through web scrapping to obtain the follwoing information:
     a. Match Results
     b. Batting Info
     c. Bowling Info
